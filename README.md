@@ -152,12 +152,3 @@ No build step or package installation is needed. This minimal distribution does
 not include the development sources, build scripts or automated tests mentioned
 in the validation history above.
 
-## Publishing on GitHub
-
-Upload **ZipNest.html** and **README.md** to the repository root. You can also
-attach ZipNest.html to a GitHub Release for a simple download. Users should
-download the actual HTML file and open it locally in desktop Chrome or Edge.
-
-Keep all embedded license notices intact. The full license texts are already
-included in the distributed HTML; this two-file distribution does not rely on
-separate license or notice files.
